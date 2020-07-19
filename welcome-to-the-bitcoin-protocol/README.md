@@ -14,3 +14,12 @@
 [Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages](https://www.reddit.com/r/Bitcoin/comments/438hx0/a_trip_to_the_moon_requires_a_rocket_with/) | 5 min | scalability |
 [Alternative Bitcoin UTXO Set Proposals](https://youtu.be/F3BCP0wiYOw) | 40 min | UTXO, history, video |
 [Satoshi's description of script](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/126/) | 5 min | script |
+
+## Discussion Questions
+
+1. Do you think a second, compatible implementation of Bitcoin is a good idea? (Satoshi's description of script)
+1. What is the difference between the block propagation network and the transaction relay network? How does participating in one or the other impact your definition of a full node? (Bitcoin Security Models)
+1. Define the differences between a full node, pruned node and an SPV? (Bitcoin Security Models)
+1. How do you judge the merits or value of a good project/experiment? (If I'd Known What We Were Starting)
+1. Do you believe that bitcoin needs to be competitive with visa/mastercard to succeed? (A trip to the moon requires a rocket with multiple stages)
+1. How might the community react to a centralized payment processor that does as many transactions per second as these networks? (A trip to the moon requires a rocket with multiple stages)
